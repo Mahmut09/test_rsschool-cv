@@ -21,3 +21,12 @@
 ```
 
 ***
+
+##Experience
+1. Freelance
+2. QazCarbon
+    - Technician-Programmer
+3. IT Step Academy
+    - Teacher
+
+***
