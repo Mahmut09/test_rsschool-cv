@@ -35,3 +35,13 @@
 - Karagandy Technic University - KTU
 
 ***
+
+##Languages
+- Kazakh
+    - Native language
+- Russion
+    - Native speaker
+- German
+    - B1
+- English
+    - A2
