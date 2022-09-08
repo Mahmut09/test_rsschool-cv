@@ -30,3 +30,8 @@
     - Teacher
 
 ***
+
+##Education
+- Karagandy Technic University - KTU
+
+***
