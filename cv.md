@@ -1,5 +1,23 @@
 ##About me
-    Мне 21 год. Я родился и живу в Казахстане, в городе Караганда.
-    Учился в городе Казань в школе программирования 21 от Сбербанка.
-    Проходил онлайн курсы по веб разработке в GLO Academy.
-    Изучаю английский язык. Занимаюсь спортом. Увлекаюсь чтением книг
+    I am 21 years old. I was born and live in Kazakhstan, in the city of Karaganda.
+    I studied in the city of Kazan at the programming school 21 from Sberbank.
+    Took online web development courses at GLO Academy.
+    Learning English. I enjoy reading books and swimming.
+
+***
+
+##Skills
+- JavaScript
+- Html/Css
+- Python
+- C++/Arduino
+- C#
+- Unity
+
+```
+    function foo(a, b) {
+        return a * b;
+    }
+```
+
+***
